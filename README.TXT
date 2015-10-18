@@ -1,4 +1,5 @@
 A school assignment. :-)
+Algorithm was thought of by mrkgnao. I merely implemented it.
 
 Two words are neighbours if they differ by one letter.
 Example: {brow, crow} , {brow, row} , {blow, below} are all sets of neighbouring words.
